@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront'",
+    "editor.inlineHints.fontFamily": "'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront'",
+    "scm.inputFontFamily": "'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront'",
+    "debug.console.fontFamily": "'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront'",
+    "terminal.integrated.fontFamily": "'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront', 'Ubuntu Mono - Bront'",
+    "editor.fontSize": 18,
+    "editor.codeLensFontSize": 18,
+    "editor.inlineHints.fontSize": 18,
+    "editor.suggestFontSize": 18,
+    "scm.inputFontSize": 18,
+    "debug.console.fontSize": 18,
+    "markdown.preview.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
+    "screencastMode.fontSize": 20
+}
